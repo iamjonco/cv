@@ -1,4 +1,4 @@
-\ProvidesClass{jon-cv}[2014/12/28 CV class]
+\ProvidesClass{cv-template}[2014/12/28 CV class]
 \NeedsTeXFormat{LaTeX2e}
 
 \DeclareOption{print}{\def\@cv@print{}}
